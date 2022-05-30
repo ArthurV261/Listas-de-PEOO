@@ -7,8 +7,7 @@ public class Program {
     int a = int.Parse(Console.ReadLine());
     int b = int.Parse(Console.ReadLine());
     int c = int.Parse(Console.ReadLine());
-
-    if ( a + b > c && a + c > b && b + c > a)
+ if ( a + b > c && a + c > b && b + c > a)
     {
       if (a == b && a == c)
         Console.WriteLine("Os 3 lados formam um triângulo Equilátero\n");

@@ -17,6 +17,7 @@ public class Program {
       else impar = impar + c;
     if (d % 2 == 0) par = par + d;
       else impar = impar + d;
+    
     Console.WriteLine("Soma dos pares = " + par);
     Console.WriteLine("Soma dos ímpares = " + impar);
   } 

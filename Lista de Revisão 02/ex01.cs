@@ -12,6 +12,5 @@ public class Program {
       if (b > a) Console.WriteLine(b);
        else
          if (a == b) Console.WriteLine("Números iguais");
-         
   } 
 }

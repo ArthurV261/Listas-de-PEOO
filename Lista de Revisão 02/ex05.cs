@@ -18,7 +18,7 @@ public class Program {
       case 10: Console.WriteLine("O mês de Outubro é do quarto trimestre do ano"); break;
       case 11: Console.WriteLine("O mês de Novembro é do quarto trimestre do ano"); break;
       case 12: Console.WriteLine("O mês de Dezembro é do quarto trimestre do ano"); break;
-   }
+    }
   }
 }
 

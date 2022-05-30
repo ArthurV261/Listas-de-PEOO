@@ -10,7 +10,6 @@ public class Program {
     int v1 =int.Parse(Console.ReadLine());
     int v2 =int.Parse(Console.ReadLine());
     int v3 =int.Parse(Console.ReadLine());
-
     if (v1 > v2)
     {
       aux = v1;

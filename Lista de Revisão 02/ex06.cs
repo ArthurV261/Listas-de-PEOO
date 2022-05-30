@@ -27,6 +27,6 @@ public class Program {
       v3 = aux;
     }
     int valor = v1 + v3;
-    Console.WriteLine("A soma do maior com o menor número é " + valor);
+  Console.WriteLine("A soma do maior com o menor número é " + valor);
   }
 }
