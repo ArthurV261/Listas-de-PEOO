@@ -3,6 +3,7 @@ using System;
 public class Program {
 
   public static void Main(string[] args) {
+   
     Console.WriteLine("Informe o número do mês");
     int x = int.Parse(Console.ReadLine());
     switch(x){
@@ -18,6 +19,7 @@ public class Program {
       case 10: Console.WriteLine("O mês de Outubro é do quarto trimestre do ano"); break;
       case 11: Console.WriteLine("O mês de Novembro é do quarto trimestre do ano"); break;
       case 12: Console.WriteLine("O mês de Dezembro é do quarto trimestre do ano"); break;
+        
     }
   }
 }

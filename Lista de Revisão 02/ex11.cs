@@ -9,6 +9,7 @@ public class Program {
     int a = int.Parse(v[0]);
     int b = int.Parse(v[1]);
     int c = int.Parse(v[2]);
+    
     switch(b)
     {
       case 1: Console.WriteLine($"A  data é {a} de Janeiro de {c}"); break;
